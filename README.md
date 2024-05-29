@@ -13,4 +13,4 @@ Graceful degradation focuses on ensuring the core features of an application are
 
 ### URL For Github Page: 
 
-[Github Pages URL](https://anchavez2026.github.io/Lab8-Starter/)
+[link](https://anchavez2026.github.io/Lab8-Starter/)
